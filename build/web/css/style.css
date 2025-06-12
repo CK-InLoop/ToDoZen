@@ -1,0 +1,3 @@
+body.dark-mode { background-color: #181a1b !important; color: #f1f1f1 !important; }
+.card, .modal-content, .table { background-color: #23272b !important; color: #f1f1f1 !important; }
+.navbar-dark.bg-primary { background-color: #23272b !important; }
